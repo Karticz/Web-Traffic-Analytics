@@ -14,4 +14,4 @@ Examine website traffic data to understand user behavior, identify key metrics s
 ## Insights & Recommendations
 - The high drop-off at checkout indicates a need for a simpler, faster payment process.
 - Users are spending the most time on the 'Products' page, showing high engagement with the catalog.
--
+
